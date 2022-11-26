@@ -1,12 +1,12 @@
 # PBL_Project
 参考にしたサイトURL  
-  http://whitewell.sakura.ne.jp/Open3D/Tutorial.html  
-使用言語
-  Python  
+  ・http://whitewell.sakura.ne.jp/Open3D/Tutorial.html  
+使用言語  
+  ・Python  
 使用モジュール  
-  open3d
-  numpy
-  matplotlib.pyplot
+  ・open3d  
+  ・numpy  
+  ・matplotlib.pyplot  
 
 plyファイルを以下の手順でサンプリング  
 1 input_data  
