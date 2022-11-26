@@ -43,7 +43,6 @@ if __name__ == "__main__":
     #外れ値と背景を黒に設定
     colors[labels < 0] = 0
     colors[labels >= 2] = 0
-    # downpcd.colors = o3d.utility.Vector3dVector(colors[:, :3])
     downpcd.colors = o3d.utility.Vector3dVector(colors[:, :3])
     o3d.visualization.draw_geometries([downpcd])
 
