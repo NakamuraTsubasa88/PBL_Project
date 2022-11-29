@@ -9,6 +9,7 @@ numpy = "*"
 matplotlib = "*"
 pyransac3d = "*"
 jupyterlab = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
