@@ -2,16 +2,13 @@
 参考にしたサイトURL  
   ・http://whitewell.sakura.ne.jp/Open3D/Tutorial.html  
 使用言語  
-  ・Python  
-使用モジュール  
-  ・open3d  
-  ・numpy  
-  ・matplotlib.pyplot  
+  ・Python(Jupyterbook)  
+ファイルの説明
+　・Ply_Preprocessing.ipynb  
+　　-ダウンサイズサンプリングを行うファイル
+  ・convert_ply-h5.py 
+　　-plyファイルをh5ファイル形式に変換する
+  ・confirmation_h5.py 
+    -h5ファイルの中身を確認するためのファイル
 
-plyファイルを以下の手順でサンプリング  
-1 input_data  
-  ・plyファイル　  
-2 voxel downsampling  
-3 DBSCAN  
-  ・背景色を選択済み（背景色は黒で指定している）  
-  ・背景を削除したい  
+
