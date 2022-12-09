@@ -3,7 +3,7 @@
   ・http://whitewell.sakura.ne.jp/Open3D/Tutorial.html  
 使用言語  
   ・Python(Jupyterbook)  
-ファイルの説明
+ファイルの説明  
 　・Ply_Preprocessing.ipynb  
 　　-ダウンサイズサンプリングを行うファイル  
   ・convert_ply-h5.py  
